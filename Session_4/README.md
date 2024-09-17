@@ -12,6 +12,13 @@ So in this document I am going to give you a very short report of this session's
 <br/>
 I really enjoyed our first step in HTML world! Such a cool effective experience :D
 
+### -Hard Skills, 04, P2
+✔️Searching about Meta Tags in HTML
+<br/>
+📂File name : ***Asal Baghernia_Meta_Tags.pdf***
+<br/>
+I came to know about Meta Tags and about how they can be important even though they might not be seen properly. And I will use them from now on!
+
 ### -Soft Skills, S04
 ✔️Project Management Form
 <br/>
