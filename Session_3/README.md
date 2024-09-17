@@ -1,4 +1,4 @@
-### Cro.Code.Ile Boot Camp, Session_3, Asal Baghernia 🐊🥳
+### Cro.Code.Ile Boot Camp, Session_3, Asal Baghernia 🐊🤩
 ## Hey there! This is Asal Baghernia. 
 So in this document I am going to give you a very short report of this session's homework :D
 <br/>
