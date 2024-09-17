@@ -1,20 +1,18 @@
-### Cro.Code.Ile Boot Camp, Session_1, Asal Baghernia 🐊😄
+### Cro.Code.Ile Boot Camp, Session_2, Asal Baghernia 🐊😄
 ## Hey there! This is Asal Baghernia. 
 So in this document I am going to give you a very short report of this session's homework :D
 🤗I'm eagerly looking forward to your precious pieces of advice, that would really help me!❤️
 
 ## Short report :
-### -Hard Skills, S01 
-✔️Writing a motivation letter 
-<br/>
-📂File name : ***Asal Baghernia_Motivation_Letter***
-In this, I tried my best to express my feelings in words and talked from the deepest part of my heart with you about my motivation, my plans, my goal and my dreams! Hope you will enjoy reading it and to understand a part of me and my world🥰
+### -Hard Skills, S02
+✔️Searching and Learning About HTML and CSS History
+So about this, I searched and read about it, and it was so cool to know, like how Tim Berners-Lee invented this and why and HOW and WHERE it is now!
 
 ### -Soft Skills, S02 
-✔️Submitting results of MBTI, Holland, Gardner tests 
+✔️Team ThinkingStorm using Xmind
 <br/>
-📂File name : ***Submitting Test Results***
-Here, I took those tests and shared my results with you! I actually enjoyed taking them because in addition to being fun, they seemed to help me get to know myself even better! 
+📂File name : ***Cro.zone_Website_Project.pdf***
+And here my team and I had some meetings and consultations and we came to an idea and here is our thinkingstorm design!
 <br/>
 <br/>
 Thanks for your time! Sincerely, Asal Baghernia
