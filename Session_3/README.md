@@ -1,20 +1,23 @@
-### Cro.Code.Ile Boot Camp, Session_1, Asal Baghernia 🐊😄
+### Cro.Code.Ile Boot Camp, Session_3, Asal Baghernia 🐊🥳
 ## Hey there! This is Asal Baghernia. 
 So in this document I am going to give you a very short report of this session's homework :D
+<br/>
 🤗I'm eagerly looking forward to your precious pieces of advice, that would really help me!❤️
 
 ## Short report :
-### -Hard Skills, S01 
-✔️Writing a motivation letter 
+### -Hard Skills, S03
+✔️Designing a Landing Page using Figma
 <br/>
-📂File name : ***Asal Baghernia_Motivation_Letter***
-In this, I tried my best to express my feelings in words and talked from the deepest part of my heart with you about my motivation, my plans, my goal and my dreams! Hope you will enjoy reading it and to understand a part of me and my world🥰
+📂File name : ***Design Part School Landing Page.txt***
+<br/>
+I really enjoyed this excercise, it was so fun to design it. Sometimes some things were tricky but I could handle them and enjoyed it!
 
-### -Soft Skills, S02 
-✔️Submitting results of MBTI, Holland, Gardner tests 
+### -Soft Skills, S03
+✔️Using Some Learning Techniques
 <br/>
-📂File name : ***Submitting Test Results***
-Here, I took those tests and shared my results with you! I actually enjoyed taking them because in addition to being fun, they seemed to help me get to know myself even better! 
+📂File name : ***Asal Baghernia_Learning_Techniques.pdf***
+<br/>
+I feel like I could learn better by these learning techniques! I would recommend :>
 <br/>
 <br/>
 Thanks for your time! Sincerely, Asal Baghernia
