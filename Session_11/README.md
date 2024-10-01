@@ -9,6 +9,11 @@ So in this document I am going to give you a very short report of this session's
 <br/>
 📂File name : ***Crozone Team_Mirror_Project.pdf***
 In this project, we needed to interview a person who is blind to get to know their true needs and feelings, and then we wrote this. 
+
+🟡Crozone Team including : 
+-Elahe Sadat Shams
+-Melika Jazaeri
+-Asal Baghernia
 <br/>
 <br/>
 Thanks for your time! Sincerely, Asal Baghernia
