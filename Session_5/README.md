@@ -8,7 +8,7 @@ So in this document I am going to give you a very short report of this session's
 ### -Hard Skills, S05
 ✔️Git Excercise, Team Version
 <br/>
-📂File name : ***  Git Excercise.txt***
+📂File name : ***Git Excercise.txt***
 <br/>
 As it was a teamwork, might have been a bit challenging to just match and do the things together, but still, was such a nice experience to explore git and github and to do this teamwork! Yay!
 <br/>
