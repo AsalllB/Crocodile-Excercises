@@ -1,4 +1,4 @@
-# Cro.Code.Ile Boot Camp, Session_10, Asal Baghernia 🐊😎
+# Cro.Code.Ile Boot Camp, Session_10, Asal Baghernia 🐊
 ## Hey there! This is Asal Baghernia. 
 So in this document I am going to give you a very short report of this session's homework :D
 <br/>
@@ -16,7 +16,6 @@ It was kind of challenging to just put things all together, but still, I could h
 ✔️Searching About Styling Number Field Input
 <br/>
 📂File name : ***Asal Baghernia_NumberField_Arrow_Removing.pdf***
-<br/>
 
 <br/>
 <br/>
