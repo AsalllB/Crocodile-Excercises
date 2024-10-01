@@ -5,10 +5,10 @@ So in this document I am going to give you a very short report of this session's
 
 ## Short report :
 ### -Hard Skills, S11 
-✔️ Mirror
+✔️ Mirror for Blind People
 <br/>
-📂File name : ***Asal Baghernia_Motivation_Letter***
-
+📂File name : ***Crozone Team_Mirror_Project.pdf***
+In this project, we needed to interview a person who is blind to get to know their true needs and feelings, and then we wrote this. 
 <br/>
 <br/>
 Thanks for your time! Sincerely, Asal Baghernia
